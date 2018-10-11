@@ -1,0 +1,30 @@
+body.custom-background{
+    background-color: #85917c;
+    background-image: url(http://elsobrantevet.com/wp-content/themes/Chameleon/images/body-bg16.png);
+  }
+  
+  .nav-link:hover{
+    background-color: lightgray;
+  }
+  .jumbotron{
+    text-align: center;
+  }
+  
+  #featured{
+    padding: 2%;
+    border-radius: 7px; 
+    width: 80%;
+    margin: 5% 10%;
+  }
+  nav{
+    width: auto;
+    border-radius: 7px;
+  }
+  #featured{
+    background: white;
+  }
+
+.carousel a img{
+    width: 100%;
+    height: auto;
+  }
