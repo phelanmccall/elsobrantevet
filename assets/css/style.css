@@ -3,6 +3,10 @@ body.custom-background{
     background-image: url(http://elsobrantevet.com/wp-content/themes/Chameleon/images/body-bg16.png);
   }
   
+  .info{
+    padding: 10px 0 10px 0;
+    border-bottom: solid black;
+  }
   .nav-link:hover{
     background-color: lightgray;
   }
