@@ -7,6 +7,6 @@ Original:
 ![original](./images/original.png)  
 
 With Bootstrap:  
-![original](./images/update.png)
+![updated](./images/updated.png)
 
 https://mougatrah.github.io/elsobrantevet
