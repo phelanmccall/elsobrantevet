@@ -4,9 +4,9 @@ Bootstrap design for El Sobrante Vet Hospital
 by Phelan McCall
 
 Original:  
-![original](./images/original.png)  
+![original](./assets/images/original.png)  
 
 With Bootstrap:  
-![updated](./images/updated.png)
+![updated](./assets/images/updated.png)
 
 https://mougatrah.github.io/elsobrantevet
