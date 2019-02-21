@@ -1,7 +1,7 @@
 # elsobrantevet
 
 Bootstrap design for El Sobrante Vet Hospital
-https://mougatrah.github.io/elsobrantevet
+
 by Phelan McCall
 
 Original:  
